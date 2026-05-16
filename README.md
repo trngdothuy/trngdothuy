@@ -367,9 +367,8 @@ $ cat certs.log | sort -r
 
 ## 👾 Pac-Man chomps through my contributions
 
-> ℹ️ **Note:** To activate this animation, create `.github/workflows/pacman.yml` in your `trngdothuy/trngdothuy` repo (see below). Once run, it auto-updates daily — no further action needed.
 
-<div align="center">
+<!-- <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/trngdothuy/trngdothuy/output/pacman-contribution-graph-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trngdothuy/trngdothuy/output/pacman-contribution-graph.svg"/>
@@ -413,7 +412,14 @@ jobs:
 
 Go to **Actions → Generate Pac-Man Animation → Run workflow** once. After that it runs every night automatically. ✅
 
-</details>
+</details> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ---
 
