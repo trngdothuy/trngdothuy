@@ -368,58 +368,13 @@ $ cat certs.log | sort -r
 ## 👾 Pac-Man chomps through my contributions
 
 
-<!-- <div align="center">
+ <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/trngdothuy/trngdothuy/output/pacman-contribution-graph-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trngdothuy/trngdothuy/output/pacman-contribution-graph.svg"/>
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/trngdothuy/trngdothuy/output/pacman-contribution-graph.svg"/>
 </picture>
 </div>
-
-<details>
-<summary>⚙️ <b>One-time setup for the Pac-Man animation</b></summary>
-
-Create `.github/workflows/pacman.yml` in your `trngdothuy/trngdothuy` repo:
-
-```yaml
-name: Generate Pac-Man Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"   # auto-updates every day
-  workflow_dispatch:        # lets you trigger manually once
-permissions:
-  contents: write
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: hugoalh/ghaction-github-profile-3d-contrib@v1
-        # OR use Platane/snk with pacman palette:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: trngdothuy
-          outputs: |
-            dist/pacman-contribution-graph.svg?color_snake=yellow&color_dots=#00b4d8,#0a192f,#64ffda,#ffffff,#00b4d8
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=yellow
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Go to **Actions → Generate Pac-Man Animation → Run workflow** once. After that it runs every night automatically. ✅
-
-</details> -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-</picture>
-
 
 ---
 
