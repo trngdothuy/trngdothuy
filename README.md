@@ -133,7 +133,7 @@ $ cat experience.log
 - 🧪 Wrote **unit tests**, debugged production issues
 - `Node.js` `Express` `Python` `AWS` `Postman`
 
-📋 [Brag Document](https://gratis-oak-371.notion.site/Trang-AFLR-Brag-Document-09faec2eb4214414a1ca6ef2ff476199?pvs=25) &nbsp;·&nbsp; 📄 [Reference Letter](https://drive.google.com/file/d/1PQtrfsrVeAaiePAPhF5hIWchmiKGC7VD/view?usp=drive_link)
+📋 [Brag Document - What I did](https://gratis-oak-371.notion.site/Trang-AFLR-Brag-Document-09faec2eb4214414a1ca6ef2ff476199?pvs=25) &nbsp;·&nbsp; 📄 [Reference Letter](https://drive.google.com/file/d/1PQtrfsrVeAaiePAPhF5hIWchmiKGC7VD/view?usp=drive_link)
 
 ---
 
@@ -149,15 +149,15 @@ $ ls projects/ | wc -l
 | # | Project | Description | Live | Code | Tech |
 |---|---------|-------------|------|------|------|
 | 01 | 🍓 **Vina T&T** | E-commerce: trace fruit origin & buy direct. Stripe, auth, email | [▶ Demo](https://projects.barcelonacodeschool.com/vinatt) | [⌥ Code](https://github.com/trngdothuy/vina-t-t-public) | React · Node · MongoDB · Stripe |
-| 02 | 🤖 **Job-Fit AI** | Paste a job ad → AI analyses fit & writes your cover letter | [▶ Demo](https://trngdothuy.surge.sh) | [⌥ Code](https://github.com/trngdothuy/job-fit) | AI · React · Node |
-| 03 | 📋 **Restaurant Ordering** | Internal web app for ordering & managing restaurant operations | [▶ Demo](https://order-auth-vn.surge.sh/) | [⌥ Code](https://github.com/trngdothuy/restaurant-order/) | React · Node · MongoDB |
-| 04 | ✈️ **Trip Interactive Plan** | A trip plan designed (and coded) with love | [▶ Demo](https://bdayy-gift-site.netlify.app/) | [⌥ Code](https://github.com/trngdothuy/taiwan-trip) | React · CSS |
+| 02 | 🤖 **Job-Fit AI** | Paste a job ad → AI analyses fit & writes your cover letter | [▶ Demo](https://trngdothuy.surge.sh) | [⌥ Code](https://github.com/trngdothuy/job-fit) | AI · Python · CLI |
+| 03 | 📋 **Restaurant Ordering** | Internal web app for ordering & managing restaurant operations | [▶ Demo](https://trngdothuy.surge.sh) | [⌥ Code](https://github.com/trngdothuy/restaurant-order/) | React · Python · AWS |
+| 04 | ✈️ **Trip Interactive Plan** | A trip plan designed (and coded) with love | [▶ Demo](https://trngdothuy.github.io/taiwan-trip/) | [⌥ Code](https://github.com/trngdothuy/taiwan-trip) | React · CSS |
 | 05 | 🎵 **Music Player** | A fully functional music player | [▶ Demo](https://hateful-noise.surge.sh/) | [⌥ Code](https://github.com/trngdothuy/music-player) | HTML · CSS · JS |
-| 06 | 🎙️ **Audio DevOps** | Dashboard to manage microservices — deployed on AWS S3 | [▶ Demo](http://devv-ops.s3-website.eu-north-1.amazonaws.com/) | [⌥ Code](https://github.com/trngdothuy/audio-dev-opps) | React · AWS |
+| 06 | 🎙️ **Audio DevOps** | Dashboard to manage microservices — deployed on AWS S3 | [▶ Demo](http://devv-ops.s3-website.eu-north-1.amazonaws.com/) | [⌥ Code](https://github.com/trngdothuy/audio-dev-opps) | React · AWS · Python |
 | 07 | 🥗 **Calorie Counter** | Going on a diet is easier than ever | [▶ Demo](http://discreet-springa.surge.sh/) | [⌥ Code](https://github.com/trngdothuy/calorie-counter) | HTML · CSS · JS |
 | 08 | 🐶 **Tin Dog** | Tinder, but for dogs 🐾 | [▶ Demo](https://tin-dog.surge.sh/) | [⌥ Code](https://github.com/trngdothuy/tindog) | HTML · CSS · Bootstrap |
-| 09 | 📺 **TV Show Search** | Browse shows & episodes live from TVMaze API | [▶ Demo](https://github.com/trngdothuy/Project-TV-Show) | [⌥ Code](https://github.com/trngdothuy/Project-TV-Show) | HTML · CSS · JS · REST API |
-| 10 | 🔖 **ShareMarks** | Team-built collaborative bookmark manager | [▶ Demo](https://github.com/trngdothuy/Piscine-Sprint-Project-Shared-Bookmarks) | [⌥ Code](https://github.com/trngdothuy/Piscine-Sprint-Project-Shared-Bookmarks) | HTML · CSS · JS |
+| 09 | 📺 **TV Show Search** | Browse shows & episodes live from TVMaze API | [▶ Demo](https://mc-trngdothuy-tv.netlify.app/) | [⌥ Code](https://github.com/trngdothuy/Project-TV-Show) | HTML · CSS · JS · REST API |
+| 10 | 🔖 **ShareMarks** | Team-built collaborative bookmark manager | [▶ Demo](https://piscine-shared-bookmarks-6.netlify.app/) | [⌥ Code](https://github.com/trngdothuy/Piscine-Sprint-Project-Shared-Bookmarks) | HTML · CSS · JS |
 
 ---
 
@@ -192,13 +192,13 @@ $ ls projects/ | wc -l
 | # | Project | Description | Live | Code |
 |---|---------|-------------|------|------|
 | 01 | 🍓 Vina T&T | Fruit e-commerce with traceability + Stripe | [▶](https://projects.barcelonacodeschool.com/vinatt) | [⌥](https://github.com/trngdothuy/vina-t-t-public) |
-| 02 | ✅ To-Do App | Task recorder & reminder app | [▶](https://trngdothuy.surge.sh/projects) | [⌥](https://github.com/trngdothuy/todos-app-project) |
-| 03 | 📚 Learning App | Read, listen, save & learn | [▶](https://trngdothuy.surge.sh/projects) | [⌥](https://github.com/trngdothuy/learning-app) |
-| 04 | 🤖 Job-Fit AI | AI job-fit analyser + cover letter generator | [▶](https://trngdothuy.surge.sh/projects) | [⌥](https://github.com/trngdothuy/job-fit) |
-| 05 | 📋 Restaurant Ordering | Internal ordering & management system | [▶](https://order-auth-vn.surge.sh/) | [⌥](https://github.com/trngdothuy/restaurant-order/) |
-| 06 | 👥 User Manager | Add, delete & view all users — deployed on AWS | [▶](http://aaatest098.s3-website.eu-north-1.amazonaws.com/) | [⌥](https://github.com/trngdothuy/users-list) |
-| 07 | 🎙️ Audio DevOps | Microservices dashboard — deployed on AWS | [▶](http://devv-ops.s3-website.eu-north-1.amazonaws.com/) | [⌥](https://github.com/trngdothuy/audio-dev-opps) |
-| 08 | 🔖 NIE Cita Script | Stop praying, use this script to grab an NIE appointment | [▶](https://trngdothuy.surge.sh/projects) | [⌥](https://github.com/trngdothuy/get-nie-appointment) |
+| 02 | ✅ To-Do App | Task recorder & reminder app | [▶](https://trngdothuy.surge.sh) | [⌥](https://github.com/trngdothuy/todos-app-project) |
+| 03 | 📚 Learning App | Read, listen, save & learn | [▶](https://trngdothuy.surge.sh) | [⌥](https://github.com/trngdothuy/learning-app) |
+| 04 | 🤖 Job-Fit AI | AI job-fit analyser + cover letter generator | [▶](https://trngdothuy.surge.sh) | [⌥](https://github.com/trngdothuy/job-fit) |
+| 05 | 📋 Restaurant Ordering | Internal ordering & management system | [▶](https://github.com/trngdothuy/restaurant-order/) | [⌥](https://github.com/trngdothuy/restaurant-order/) |
+| 06 | 👥 User Manager | Add, delete & view all users - deployed on AWS | [▶](http://aaatest098.s3-website.eu-north-1.amazonaws.com/) | [⌥](https://github.com/trngdothuy/users-list) |
+| 07 | 🎙️ Audio DevOps | Microservices dashboard - deployed on AWS | [▶](http://devv-ops.s3-website.eu-north-1.amazonaws.com/) | [⌥](https://github.com/trngdothuy/audio-dev-opps) |
+| 08 | 🔖 NIE Cita Script | Stop praying, use this script to grab an NIE appointment | [▶](https://trngdothuy.surge.sh) | [⌥](https://github.com/trngdothuy/get-nie-appointment) |
 | 09 | 🛍️ Order Auth VN | Website for "Order Authentic in Vietnam" service | [▶](https://order-auth-vn.surge.sh/) | [⌥](https://github.com/trngdothuy/order-auth-vn) |
 
 ---
@@ -208,13 +208,15 @@ $ ls projects/ | wc -l
 | # | Project | Description | Live | Code |
 |---|---------|-------------|------|------|
 | 01 | 🐶 Tin Dog | Tinder, but for dogs | [▶](https://tin-dog.surge.sh/) | [⌥](https://github.com/trngdothuy/tindog) |
-| 02 | 🥗 Calorie Counter | Diet tracker — going healthy made easy | [▶](http://discreet-springa.surge.sh/) | [⌥](https://github.com/trngdothuy/calorie-counter) |
+| 02 | 🥗 Calorie Counter | Diet tracker - going healthy made easy | [▶](http://discreet-springa.surge.sh/) | [⌥](https://github.com/trngdothuy/calorie-counter) |
 | 03 | 🎵 Music Player | Fully functional music player | [▶](https://hateful-noise.surge.sh/) | [⌥](https://github.com/trngdothuy/music-player) |
 | 04 | 🎲 Simon Game | Classic memory game | [▶](https://aloof-quartz.surge.sh/) | [⌥](https://github.com/trngdothuy/Simon-Game) |
-| 05 | 🐉 Simple RPG Game | Role playing game — let's fight the dragon! | [▶](http://stereotyped-amount.surge.sh/) | [⌥](https://github.com/trngdothuy/role-playing-game) |
+| 05 | 🐉 Simple RPG Game | Role playing game - let's fight the dragon! | [▶](http://stereotyped-amount.surge.sh/) | [⌥](https://github.com/trngdothuy/role-playing-game) |
 | 06 | ✊ Rock Paper Scissors | Guess who wins? | [▶](https://imaginary-dad.surge.sh/) | [⌥](https://github.com/trngdothuy/rock-paper-scissors) |
 | 07 | 🎯 Quiz Game | Quiz time! | [▶](https://trngdothuy.github.io/quiz-game/) | [⌥](https://github.com/trngdothuy/quiz-game) |
 | 08 | 🎨 Color Palette Generator | Give life some colors | [▶](https://trngdothuy.github.io/02-color-palette-generator/) | [⌥](https://github.com/trngdothuy/02-color-palette-generator) |
+| 09 | 🎂 Birthday Gift Site | Surprise surprise 🥳 | [▶](https://bdayy-gift-site.netlify.app/) | [⌥](https://github.com/trngdothuy/bday-gift-site) |
+| 10 | 🐱 Cat Painting | A muse painting - HTML/CSS only | [▶](https://bright-feather.surge.sh/) | [⌥](https://github.com/trngdothuy/cat-painting) |
 
 ---
 
@@ -222,29 +224,27 @@ $ ls projects/ | wc -l
 
 | # | Project | Description | Live | Code |
 |---|---------|-------------|------|------|
-| 01 | ✈️ Trip Interactive Plan | Trip plan designed & coded with love | [▶](https://bdayy-gift-site.netlify.app/) | [⌥](https://github.com/trngdothuy/taiwan-trip) |
-| 02 | 🎂 Birthday Gift Site | Surprise surprise 🥳 | [▶](https://bdayy-gift-site.netlify.app/) | [⌥](https://github.com/trngdothuy/bday-gift-site) |
+| 01 | 🎵 Music Data Dashboard | User music stats with dynamic navigation | [▶](https://musicdata-trngdothuy.netlify.app/) | [⌥](https://github.com/trngdothuy/Piscine-Sprint-Project-Music-Data) |
+| 02 | ✈️ Trip Interactive Plan | Trip plan designed & coded with love | [▶](https://trngdothuy.github.io/taiwan-trip/) | [⌥](https://github.com/trngdothuy/taiwan-trip) |
 | 03 | 🍽️ Sunset Bistro | Simple, stylish website for a restaurant | [▶](https://sunset-phuquoc.surge.sh/) | [⌥](https://github.com/trngdothuy/sunset-bistro) |
 | 04 | 🍜 Vi Viet | Responsive restaurant menu website | [▶](https://viviet.surge.sh/) | [⌥](https://github.com/trngdothuy/viviet0-carta) |
 | 05 | ☕ Coffee Menu | Clean coffee menu website | [▶](https://plant-lift-abc.surge.sh/) | [⌥](https://github.com/trngdothuy/coffee-menu/) |
-| 06 | 🐱 Cat Painting | A muse painting — HTML/CSS only | [▶](https://bright-feather.surge.sh/) | [⌥](https://github.com/trngdothuy/cat-painting) |
-| 07 | 📋 Trello Clone | Trello dashboard clone — HTML/CSS only | [▶](http://trello.dtt.surge.sh/) | [⌥](https://github.com/trngdothuy/Trello-dashboard) |
-| 08 | 🌆 Hola BCN | Responsive multi-page site — HTML/CSS | [▶](http://holabcn.dtt.surge.sh/) | [⌥](https://github.com/trngdothuy/my-website.git) |
-| 09 | 📄 My CV | CV built from scratch with HTML/CSS | [▶](http://trangdo-cv.surge.sh/) | [⌥](https://github.com/trngdothuy/my-cv) |
-
+| 06 | 📋 Trello Clone | Trello dashboard clone — HTML/CSS only | [▶](http://trello.dtt.surge.sh/) | [⌥](https://github.com/trngdothuy/Trello-dashboard) |
+| 07 | 🌆 Hola BCN | Responsive multi-page site — HTML/CSS | [▶](http://holabcn.dtt.surge.sh/) | [⌥](https://github.com/trngdothuy/my-website.git) |
+| 08 | 📄 My CV | CV built from scratch with HTML/CSS | [▶](https://trngdothuy.github.io/my-cv/) | [⌥](https://github.com/trngdothuy/my-cv) |
+| 09 | 📖 My Portfolio | Portfolio page created from scratch | [▶](https://trngdothuy.surge.sh/) | [⌥](https://github.com/trngdothuy/portfolio) |
 ---
 
 #### 🏗️ Practice & Learning
 
 | # | Project | Description | Code |
 |---|---------|-------------|------|
-| 01 | 📖 My Portfolio | Portfolio page created from scratch | [⌥](https://github.com/trngdothuy/portfolio) |
-| 02 | ⚡ JavaScript Exercises | JS practices from Barcelona Code School | [⌥](https://github.com/trngdothuy) |
-| 03 | ⚛️ React Exercises | React practices from Barcelona Code School | [⌥](https://github.com/trngdothuy) |
-| 04 | 🔧 Express Exercises | MERN stack practices | [⌥](https://github.com/trngdothuy) |
-| 05 | 🐍 Python Exercises | Self-study Python practice | [⌥](https://github.com/trngdothuy/python-exercises) |
-| 06 | 🦀 Rust Exercises | Self-study Rust practice | [⌥](https://github.com/trngdothuy/rust-exercises) |
-| 07 | 🎵 Music Data Dashboard | User music stats with dynamic navigation | [⌥](https://github.com/trngdothuy/Piscine-Sprint-Project-Music-Data) |
+| 01 | ⚡ JavaScript Exercises | JS practices from Barcelona Code School | [⌥](https://github.com/trngdothuy) |
+| 02 | ⚛️ React Exercises | React practices from Barcelona Code School | [⌥](https://github.com/trngdothuy) |
+| 03 | 🔧 Express Exercises | MERN stack practices | [⌥](https://github.com/trngdothuy) |
+| 04 | 🐍 Python Exercises | Self-study Python practice | [⌥](https://github.com/trngdothuy/python-exercises) |
+| 05 | 🦀 Rust Exercises | Self-study Rust practice | [⌥](https://github.com/trngdothuy/rust-exercises) |
+
 
 </details>
 
@@ -267,10 +267,11 @@ $ cat certs.log | sort -r
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
+| 🔬 Build with AI: Multi-Agent Apps - Gemini · Vertex AI · LangChain | Google Developer Groups | 2026 |
+| ☁️ Introduction to Cloud Computing | IBM | 2025 |
 | 🧠 [CS50's Intro to AI with Python](https://certificates.cs50.io/c2837b75-8d90-4f2b-906e-8e1ee351b3fd.pdf?size=letter) | HarvardX | 2024 |
 | 🖥️ [CS50's Intro to Computer Science](https://cs50.harvard.edu/certificates/2972c08f-fcca-4e18-a63f-76d72be6f049) | HarvardX | 2024 |
-| 🔬 Build with AI: Multi-Agent Apps — Gemini · Vertex AI · LangChain | Google Developer Groups | 2026 |
-| ☁️ Introduction to Cloud Computing | IBM | 2025 |
+
 
 #### 💻 Software Engineering & DevOps
 
@@ -285,8 +286,8 @@ $ cat certs.log | sort -r
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
-| ⚡ JavaScript Full-Stack Bootcamp | Barcelona Code School | 2022 |
 | 🐍 The Complete Python Pro Bootcamp | Udemy | 2023 |
+| ⚡ JavaScript Full-Stack Bootcamp | Barcelona Code School | 2022 |
 | 🦀 Rust Programming for Beginners | Udemy | 2022 |
 | 🌐 NEAR Academy (Blockchain + Rust) | NEAR Protocol | 2022 |
 | 🏗️ HTML Essential Training | LinkedIn | 2022 |
@@ -314,11 +315,11 @@ $ cat certs.log | sort -r
 ### 🏫 Education Timeline
 
 ```
-2026  ┤ MigraCode Barcelona — Web & Software Dev Bootcamp (ongoing)
+2026  ┤ MigraCode Barcelona - Web & Software Dev Bootcamp (ongoing)
       │
-2024  ┤ Universae — Higher Technician, Multiplatform App Dev / DAM (ongoing)
-      │ HarvardX — CS50AI + CS50x (complete)
-      │ CFA Can Serra — Catalan Language A1
+2024  ┤ Universae - Higher Technician, Multiplatform App Dev / DAM (ongoing)
+      │ HarvardX - CS50AI + CS50x (complete)
+      │ CFA Can Serra - Catalan Language A1
       │
 2023  ┤ Aflorithmic → Support Engineer Associate
       │ Udemy Python Pro Bootcamp
@@ -341,11 +342,6 @@ $ cat certs.log | sort -r
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=trngdothuy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trngdothuy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=trngdothuy&theme=tokyonight&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
