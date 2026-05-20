@@ -32,11 +32,11 @@ $ whoami
 ║                                                               ║
 ║  NAME      : Trang Do Thuy                                    ║
 ║  ROLE      : Full-Stack Developer                             ║
-║  LOCATION  : Barcelona, Spain 🇪🇸                               ║
+║  LOCATION  : Barcelona, Spain 🇪🇸                              ║
 ║  STACK     : React · Node.js · TypeScript · Python · Flutter  ║
 ║  AI CERTS  : HarvardX CS50AI · Google GDG · IBM DevOps        ║
 ║  LANGUAGES : Vietnamese 🇻🇳 · English · Spanish · Catalan      ║
-║  STATUS    : 🟢 Open to work - Junior Dev Roles              ║
+║  STATUS    : 🟢 Open to work - Junior Dev Roles               ║
 ║  VIBE      : Business MSc + AI + Code = user-first thinking   ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
