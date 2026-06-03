@@ -14,9 +14,9 @@
 
 <br/>
 
-<a href="https://developers.google.com/profile/badges/events/community/build-with-ai/2026/attendee" title="Build with AI 2026 Attendee">
+<!-- <a href="https://developers.google.com/profile/badges/events/community/build-with-ai/2026/attendee" title="Build with AI 2026 Attendee">
   <img src="https://developers.google.com/static/profile/badges/events/community/build-with-ai/2026/attendee/badge.svg" alt="Build with AI 2026 Attendee Badge" height="120"/>
-</a>
+</a> -->
 
 </div>
 
