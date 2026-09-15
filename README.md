@@ -31,17 +31,20 @@ $ whoami
 ║  trngdothuy@barcelona:~$                                      ║
 ║                                                               ║
 ║  NAME      : Trang Do Thuy                                    ║
-║  ROLE      : Full-Stack Developer                             ║
+║  ROLE      : Software Engineer · Full-Stack Developer         ║
 ║  LOCATION  : Barcelona, Spain 🇪🇸                              ║
 ║  STACK     : React · Node.js · TypeScript · Python · Flutter  ║
-║  AI CERTS  : HarvardX CS50AI · Google GDG · IBM DevOps        ║
-║  LANGUAGES : Vietnamese 🇻🇳 · English · Spanish · Catalan      ║
-║  STATUS    : 🟢 Open to work - Junior Dev Roles               ║
-║  VIBE      : Business MSc + AI + Code = user-first thinking   ║
+║  AI        : Gemini · Claude · OpenAI · AI Agents             ║
+║  FOCUS     : Full-Stack · AI Integration · Distributed Apps   ║
+║  LANGUAGES : Vietnamese 🇻🇳 · English · Spanish                ║
+║  STATUS    : 🟢 Open to Software Engineering Opportunities    ║
+║  VIBE      : Business + AI + Code = user-first thinking       ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-> I come from **Business & Hospitality** before becoming a developer - which means I build software that actually makes sense to the people using it. I've shipped features at an AI startup, completed 12 Harvard AI projects, and I'm always building something new.
+> I come from **Business & Hospitality** before becoming a developer - which means I care about both **how software works and why people need it**. I've worked in an AI audio startup, contributed to open-source software through the **Liquid Galaxy project**, and built full-stack, AI, and mobile applications across my studies and independent projects.
+
+
 
 ---
 
@@ -110,6 +113,10 @@ $ cat skills.json
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
+
+
+
+
 ---
 
 ## 💼 Work Experience
@@ -118,9 +125,52 @@ $ cat skills.json
 $ cat experience.log
 ```
 
-### 🏢 Fullstack Developer Intern - *El Vínculo Producciones*
+### 🌍 Software Engineer Intern - *[Liquid Galaxy (Google Open Source Project)](https://www.liquidgalaxy.eu/)*
+
+
+`Mar 2026 → Present` · Remote · Lleida, Catalonia, Spain
+
+*Open-source project · Gemini Summer of Code*
+
+Contributing to the **Liquid Galaxy** open-source ecosystem while developing the **Red List Endangered Species Living Atlas** - an AI-supported interactive geospatial experience.
+
+* 🌍 Building an **Android/Flutter application** capable of communicating with a Liquid Galaxy rig
+* 🐦 Transforming raw **IUCN Red List data** into an interactive geospatial storytelling experience
+* 🌎 Working with Liquid Galaxy's **multi-screen Google Earth environment**
+* 🎙️ Exploring **voice guidance and storytelling** using Flutter TTS
+* 🤖 Integrating an **AI-powered chatbot** into the experience
+* 🖥️ Installed and configured a **virtual Liquid Galaxy rig with 3 synchronized VMs**
+* 📱 Built a Flutter prototype capable of:
+
+  * Sending the Liquid Galaxy logo to the rig
+  * Sending 3D KML content visible across all 3 screens
+  * Triggering fly-to navigation to Hanoi, Vietnam
+  * Cleaning logos and KML content
+* 🎤 Created and delivered technical presentations on:
+
+  * `Designing Interactive Experience on Liquid Galaxy`
+  * `Adding Voice Interaction With Flutter TTS`
+  * `Securing Distributed Systems in Liquid Galaxy`
+* 📚 Created technical documentation for the Liquid Galaxy Wiki covering:
+
+  * Sending files via SSH using Base64
+  * Fixing KML auto-fly behaviour
+  * SSH host-key configuration and troubleshooting
+
+**Stack:** `Flutter` `Dart` `Distributed Systems` `SSH` `KML` `Google Earth` `AI` `TTS`
+
+🎙️ [Voice Interaction Presentation](https://www.youtube.com/watch?v=VrLEQZKLzqI) · 🔐 [Distributed Systems Presentation](https://www.youtube.com/watch?v=yDUisrel29c)
+
+
+---
+
+### 🏢 Full-Stack Developer Intern - *[El Vínculo Producciones](https://www.elvinculoproducciones.es/)*
+
 `Mar 2026 → May 2026` · Remote · Palma de Mallorca, Spain
-- Designed and developed a full **WordPress website** from scratch
+
+- Designed and developed a full **WordPress website from scratch**
+- Worked across website structure, content presentation and responsive UI
+
 
 ---
 
@@ -139,25 +189,30 @@ $ cat experience.log
 
 ## 🚀 Projects
 
-```bash
+```
 $ ls projects/ | wc -l
+
 > 33+ projects and counting
+````
+
+### ⭐ Featured - Recent & Best Work
+
+| #  | Project                                    | Description                                                                | Live                                                           | Code                                                                            | Tech                                 |
+| -- | ------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------ |
+| 01 | 🌍 **Liquid Galaxy Red List Living Atlas** | AI-supported geospatial storytelling experience for endangered species     | 🚧 In progress                                                 | [⌥ Project](https://github.com/trngdothuy/LG-Red-List-Endangered-Species-Living-Atlas)                                 | Flutter · Dart · AI · KML · SSH      |
+| 02 | 📈 **investIQ**                            | Educational investment app exploring diversification, risk & ESG           | [▶ Demo](https://investiq-migracode.netlify.app/)              | [⌥ Code](https://github.com/trngdothuy/investIQ)                                         | React · Node · PostgreSQL · TanStack |
+| 03 | 🍓 **Vina T&T**                            | E-commerce platform connecting customers with traceable fruit producers    | [▶ Demo](https://projects.barcelonacodeschool.com/vinatt)      | [⌥ Code](https://github.com/trngdothuy/vina-t-t-public)                         | React · Node · MongoDB · Stripe      |
+| 04 | 🤖 **Job-Fit AI**                          | Paste a job description → analyse fit and generate a tailored cover letter | [▶ Demo](https://trngdothuy.surge.sh)                          | [⌥ Code](https://github.com/trngdothuy/job-fit)                                 | Python · AI · CLI                    |
+| 05 | 📋 **Restaurant Ordering**                 | Internal ordering and operations management application                    | [▶ Demo](https://trngdothuy.surge.sh)                          | [⌥ Code](https://github.com/trngdothuy/restaurant-order/)                       | React · Python · AWS                 |
+| 06 | ✈️ **Trip Interactive Plan**               | Interactive travel planning application designed and coded from scratch    | [▶ Demo](https://trngdothuy.github.io/taiwan-trip/)            | [⌥ Code](https://github.com/trngdothuy/taiwan-trip)                             | React · CSS                          |
+| 07 | 🎙️ **Audio DevOps**                       | Dashboard for managing audio microservices                                 | [▶ Demo](http://devv-ops.s3-website.eu-north-1.amazonaws.com/) | [⌥ Code](https://github.com/trngdothuy/audio-dev-opps)                          | React · Python · AWS                 |
+| 08 | 📺 **TV Show Search**                      | Search and browse shows & episodes using a REST API                        | [▶ Demo](https://mc-trngdothuy-tv.netlify.app/)                | [⌥ Code](https://github.com/trngdothuy/Project-TV-Show)                         | JavaScript · REST API                |
+| 09 | 🔖 **ShareMarks**                          | Collaborative team bookmark manager                                        | [▶ Demo](https://piscine-shared-bookmarks-6.netlify.app/)      | [⌥ Code](https://github.com/trngdothuy/Piscine-Sprint-Project-Shared-Bookmarks) | JavaScript · Web                     |
+| 10 | 🎵 **Music Player**                        | Fully functional browser-based music player                                | [▶ Demo](https://hateful-noise.surge.sh/)                      | [⌥ Code](https://github.com/trngdothuy/music-player)                            | HTML · CSS · JavaScript              |
+
+```
 ```
 
-### ⭐ Featured - Top 10
-
-| # | Project | Description | Live | Code | Tech |
-|---|---------|-------------|------|------|------|
-| 01 | 🍓 **Vina T&T** | E-commerce: trace fruit origin & buy direct. Stripe, auth, email | [▶ Demo](https://projects.barcelonacodeschool.com/vinatt) | [⌥ Code](https://github.com/trngdothuy/vina-t-t-public) | React · Node · MongoDB · Stripe |
-| 02 | 🤖 **Job-Fit AI** | Paste a job ad → AI analyses fit & writes your cover letter | [▶ Demo](https://trngdothuy.surge.sh) | [⌥ Code](https://github.com/trngdothuy/job-fit) | AI · Python · CLI |
-| 03 | 📋 **Restaurant Ordering** | Internal web app for ordering & managing restaurant operations | [▶ Demo](https://trngdothuy.surge.sh) | [⌥ Code](https://github.com/trngdothuy/restaurant-order/) | React · Python · AWS |
-| 04 | ✈️ **Trip Interactive Plan** | A trip plan designed (and coded) with love | [▶ Demo](https://trngdothuy.github.io/taiwan-trip/) | [⌥ Code](https://github.com/trngdothuy/taiwan-trip) | React · CSS |
-| 05 | 🎵 **Music Player** | A fully functional music player | [▶ Demo](https://hateful-noise.surge.sh/) | [⌥ Code](https://github.com/trngdothuy/music-player) | HTML · CSS · JS |
-| 06 | 🎙️ **Audio DevOps** | Dashboard to manage microservices — deployed on AWS S3 | [▶ Demo](http://devv-ops.s3-website.eu-north-1.amazonaws.com/) | [⌥ Code](https://github.com/trngdothuy/audio-dev-opps) | React · AWS · Python |
-| 07 | 🥗 **Calorie Counter** | Going on a diet is easier than ever | [▶ Demo](http://discreet-springa.surge.sh/) | [⌥ Code](https://github.com/trngdothuy/calorie-counter) | HTML · CSS · JS |
-| 08 | 🐶 **Tin Dog** | Tinder, but for dogs 🐾 | [▶ Demo](https://tin-dog.surge.sh/) | [⌥ Code](https://github.com/trngdothuy/tindog) | HTML · CSS · Bootstrap |
-| 09 | 📺 **TV Show Search** | Browse shows & episodes live from TVMaze API | [▶ Demo](https://mc-trngdothuy-tv.netlify.app/) | [⌥ Code](https://github.com/trngdothuy/Project-TV-Show) | HTML · CSS · JS · REST API |
-| 10 | 🔖 **ShareMarks** | Team-built collaborative bookmark manager | [▶ Demo](https://piscine-shared-bookmarks-6.netlify.app/) | [⌥ Code](https://github.com/trngdothuy/Piscine-Sprint-Project-Shared-Bookmarks) | HTML · CSS · JS |
 
 ---
 
@@ -263,12 +318,13 @@ $ cat certs.log | sort -r
 
 <br/>
 
-#### 🤖 AI & Cloud
+#### 🤖 AI, Cloud & Software Development
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
-| 🔬 Build with AI: Multi-Agent Apps - Gemini · Vertex AI · LangChain | Google Developer Groups | 2026 |
-| ☁️ Introduction to Cloud Computing | IBM | 2025 |
+| 🔬 [Build with AI: Multi-Agent Apps](https://www.linkedin.com/in/trang-do-thuy-183435141/overlay/Certifications/835991582/treasury?profileId=ACoAACJp1bMBTYh6vUuwCmnckLjrDWxbfLPuN7M) | Google Developer Groups | 2026 |
+| 🧠 [Introduction to Software Development](https://www.coursera.org/account/accomplishments/verify/GL1F5SQ5H3ED) | Amazon | 2026 |
+| ☁️ [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/verify/RP41GBB1LQHP) | IBM | 2025 |
 | 🧠 [CS50's Intro to AI with Python](https://certificates.cs50.io/c2837b75-8d90-4f2b-906e-8e1ee351b3fd.pdf?size=letter) | HarvardX | 2024 |
 | 🖥️ [CS50's Intro to Computer Science](https://cs50.harvard.edu/certificates/2972c08f-fcca-4e18-a63f-76d72be6f049) | HarvardX | 2024 |
 
@@ -277,6 +333,7 @@ $ cat certs.log | sort -r
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
+| [🏆 Certificate of Completion - Full-Stack Development](https://www.linkedin.com/in/trang-do-thuy-183435141/overlay/Certifications/402578013/treasury?profileId=ACoAACJp1bMBTYh6vUuwCmnckLjrDWxbfLPuN7M) | MigraCode Barcelona | 2026 |
 | ⚙️ Software Engineering Essentials | IBM | 2025 |
 | 🔁 DevOps Essentials | IBM / Coursera | 2025 |
 | 🐙 Getting Started with Git & GitHub | IBM | 2025 |
@@ -315,9 +372,9 @@ $ cat certs.log | sort -r
 ### 🏫 Education Timeline
 
 ```
-2026  ┤ MigraCode Barcelona - Web & Software Dev Bootcamp (ongoing)
+2025  ┤ MigraCode Barcelona - Web & Software Dev Bootcamp (finished on July, 2026)
       │
-2024  ┤ Universae - Higher Technician, Multiplatform App Dev / DAM (ongoing)
+2024  ┤ Universae - Higher Technician, Multiplatform App Dev / DAM (finished on June, 2026)
       │ HarvardX - CS50AI + CS50x (complete)
       │ CFA Can Serra - Catalan Language A1
       │
