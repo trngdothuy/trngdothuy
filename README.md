@@ -41,10 +41,17 @@ $ whoami
 ║  VIBE      : Business + AI + Code = user-first thinking       ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
+---
 
-> I come from **Business & Hospitality** before becoming a developer - which means I care about both **how software works and why people need it**. I've worked in an AI audio startup, contributed to open-source software through the **Liquid Galaxy project**, and built full-stack, AI, and mobile applications across my studies and independent projects.
+## 👩‍💻 About Me
 
+I started in **Business & Digital Business** and moved into software engineering because I wanted to understand not only **how technology works, but why people need it**.
 
+Today I enjoy building across the stack — from **React interfaces and Node.js APIs to AI integrations and mobile applications**.
+
+Currently working with **Liquid Galaxy Open Source**, building an endangered-species visualization project combining **Flutter, IUCN data, Google Earth, KML/KMZ and AI**.
+
+> 💡 I like turning messy ideas into simple, useful software.
 
 ---
 
@@ -52,10 +59,10 @@ $ whoami
 
 | | Link | What you'll find |
 |---|---|---|
-| 🌐 | [Portfolio](https://trngdothuy.surge.sh/) | Projects, demos, and design work |
-| 📄 | [Online CV](https://trngdothuy.github.io/my-cv/) | Full experience, education & skills |
+| 🌐 | [Portfolio](https://trngdothuy.surge.sh/) | Projects, demos, and design work (updating) |
+| 📄 | [Online CV](https://shorturl.at/818IN) | Experience, education & skills |
 | 💼 | [LinkedIn](https://www.linkedin.com/in/trang-do-thuy-183435141/) | Professional profile & network |
-| 📋 | [Brag Doc @ Aflorithmic](https://gratis-oak-371.notion.site/Trang-AFLR-Brag-Document-09faec2eb4214414a1ca6ef2ff476199?pvs=25) | What I built during my engineering internship |
+| 📋 | [Brag Doc @ Aflorithmic](https://gratis-oak-371.notion.site/Trang-AFLR-Brag-Document-09faec2eb4214414a1ca6ef2ff476199?pvs=25) | What I built during my 1st engineering internship |
 | 📄 | [Reference Letter](https://drive.google.com/file/d/1PQtrfsrVeAaiePAPhF5hIWchmiKGC7VD/view?usp=drive_link) | From Aflorithmic |
 | 📬 | [tranggdothuy@gmail.com](mailto:tranggdothuy@gmail.com) | Say hello! |
 
@@ -114,9 +121,6 @@ $ cat skills.json
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 
-
-
-
 ---
 
 ## 💼 Work Experience
@@ -132,30 +136,7 @@ $ cat experience.log
 
 *Open-source project · Gemini Summer of Code*
 
-Contributing to the **Liquid Galaxy** open-source ecosystem while developing the **Red List Endangered Species Living Atlas** - an AI-supported interactive geospatial experience.
-
-* 🌍 Building an **Android/Flutter application** capable of communicating with a Liquid Galaxy rig
-* 🐦 Transforming raw **IUCN Red List data** into an interactive geospatial storytelling experience
-* 🌎 Working with Liquid Galaxy's **multi-screen Google Earth environment**
-* 🎙️ Exploring **voice guidance and storytelling** using Flutter TTS
-* 🤖 Integrating an **AI-powered chatbot** into the experience
-* 🖥️ Installed and configured a **virtual Liquid Galaxy rig with 3 synchronized VMs**
-* 📱 Built a Flutter prototype capable of:
-
-  * Sending the Liquid Galaxy logo to the rig
-  * Sending 3D KML content visible across all 3 screens
-  * Triggering fly-to navigation to Hanoi, Vietnam
-  * Cleaning logos and KML content
-* 🎤 Created and delivered technical presentations on:
-
-  * `Designing Interactive Experience on Liquid Galaxy`
-  * `Adding Voice Interaction With Flutter TTS`
-  * `Securing Distributed Systems in Liquid Galaxy`
-* 📚 Created technical documentation for the Liquid Galaxy Wiki covering:
-
-  * Sending files via SSH using Base64
-  * Fixing KML auto-fly behaviour
-  * SSH host-key configuration and troubleshooting
+- Contributing to the **Liquid Galaxy** open-source ecosystem while developing the **Red List Endangered Species Living Atlas** - an AI-supported interactive geospatial experience.
 
 **Stack:** `Flutter` `Dart` `Distributed Systems` `SSH` `KML` `Google Earth` `AI` `TTS`
 
@@ -191,16 +172,14 @@ Contributing to the **Liquid Galaxy** open-source ecosystem while developing the
 
 ```
 $ ls projects/ | wc -l
-
-> 33+ projects and counting
-````
+```
 
 ### ⭐ Featured - Recent & Best Work
 
 | #  | Project                                    | Description                                                                | Live                                                           | Code                                                                            | Tech                                 |
 | -- | ------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------ |
-| 01 | 🌍 **Liquid Galaxy Red List Living Atlas** | AI-supported geospatial storytelling experience for endangered species     | 🚧 In progress                                                 | [⌥ Project](https://github.com/trngdothuy/LG-Red-List-Endangered-Species-Living-Atlas)                                 | Flutter · Dart · AI · KML · SSH      |
-| 02 | 📈 **investIQ**                            | Educational investment app exploring diversification, risk & ESG           | [▶ Demo](https://investiq-migracode.netlify.app/)              | [⌥ Code](https://github.com/trngdothuy/investIQ)                                         | React · Node · PostgreSQL · TanStack |
+| 01 | 🌍 **Liquid Galaxy Red List Living Atlas** | AI-supported geospatial storytelling experience for endangered species     | Updating                  | [⌥ Project](https://github.com/trngdothuy/LG-Red-List-Endangered-Species-Living-Atlas)                                 | Flutter · Dart · AI · KML · SSH      |
+| 02 | 📈 **investIQ**                            | Educational investment app exploring diversification, risk & values           | [▶ Demo](https://investiq-migracode.netlify.app/)              | [⌥ Code](https://github.com/trngdothuy/investIQ)                                         | React · Node · PostgreSQL · TanStack |
 | 03 | 🍓 **Vina T&T**                            | E-commerce platform connecting customers with traceable fruit producers    | [▶ Demo](https://projects.barcelonacodeschool.com/vinatt)      | [⌥ Code](https://github.com/trngdothuy/vina-t-t-public)                         | React · Node · MongoDB · Stripe      |
 | 04 | 🤖 **Job-Fit AI**                          | Paste a job description → analyse fit and generate a tailored cover letter | [▶ Demo](https://trngdothuy.surge.sh)                          | [⌥ Code](https://github.com/trngdothuy/job-fit)                                 | Python · AI · CLI                    |
 | 05 | 📋 **Restaurant Ordering**                 | Internal ordering and operations management application                    | [▶ Demo](https://trngdothuy.surge.sh)                          | [⌥ Code](https://github.com/trngdothuy/restaurant-order/)                       | React · Python · AWS                 |
@@ -209,10 +188,6 @@ $ ls projects/ | wc -l
 | 08 | 📺 **TV Show Search**                      | Search and browse shows & episodes using a REST API                        | [▶ Demo](https://mc-trngdothuy-tv.netlify.app/)                | [⌥ Code](https://github.com/trngdothuy/Project-TV-Show)                         | JavaScript · REST API                |
 | 09 | 🔖 **ShareMarks**                          | Collaborative team bookmark manager                                        | [▶ Demo](https://piscine-shared-bookmarks-6.netlify.app/)      | [⌥ Code](https://github.com/trngdothuy/Piscine-Sprint-Project-Shared-Bookmarks) | JavaScript · Web                     |
 | 10 | 🎵 **Music Player**                        | Fully functional browser-based music player                                | [▶ Demo](https://hateful-noise.surge.sh/)                      | [⌥ Code](https://github.com/trngdothuy/music-player)                            | HTML · CSS · JavaScript              |
-
-```
-```
-
 
 ---
 
@@ -372,31 +347,35 @@ $ cat certs.log | sort -r
 ### 🏫 Education Timeline
 
 ```
-2025  ┤ MigraCode Barcelona - Web & Software Dev Bootcamp (finished on July, 2026)
+2025  |- MigraCode Barcelona - Web & Software Dev Bootcamp 
+      | (Finished on July, 2026)
       │
-2024  ┤ Universae - Higher Technician, Multiplatform App Dev / DAM (finished on June, 2026)
-      │ HarvardX - CS50AI + CS50x (complete)
-      │ CFA Can Serra - Catalan Language A1
+2024  |- Universae - Higher Technician, Multiplatform App Dev / DAM 
+      | (Finished on June, 2026)
+      │- HarvardX - CS50AI + CS50x 
+      │- CFA Can Serra - Catalan Language A1
       │
-2023  ┤ Aflorithmic → Support Engineer Associate
-      │ Udemy Python Pro Bootcamp
+2023  |- Aflorithmic → Support Engineer Associate
+      │- Udemy Python Pro Bootcamp
       │
-2022  ┤ Barcelona Code School — JS Full-Stack Bootcamp
-      │ Udemy Rust · LinkedIn Learning · NEAR Academy
+2022  |- Barcelona Code School — JS Full-Stack Bootcamp
+      │- Udemy Rust · LinkedIn Learning · NEAR Academy
       │
-2021  ┤ EU Business School — MSc Digital Business (Magna cum Laude · GPA 3.7/4)
-      │ UCAM Universidad — MSc Digital Business (9.3/10 · Excellent · Double Degree)
+2021  |- EU Business School — MSc Digital Business (Magna cum Laude · GPA 3.7/4)
+      | (Finished on April, 2022)
+      │- UCAM Universidad — MSc Digital Business (9.3/10 · Excellent · Double Degree)
       │
-2017  ┤ Universitat de Barcelona — Exchange Year, Economics
+2017  |- Universitat de Barcelona — Exchange Year, Economics
       │
-2015  ┤ Foreign Trade University — BSc Economics & Intl Business (GPA 3.32/4)
-2020  ┘   Thesis "Shanghai FTZ & Lessons for Vietnam" — 93/100
-          → Offered for publication in International Business Magazine
+2015  |- Foreign Trade University — BSc Economics & Intl Business (GPA 3.32/4)
+      | (Finished on July, 2020)
+      |     -   Thesis "Shanghai FTZ & Lessons for Vietnam" — 93/100
+      |    → Offered for publication in International Business Magazine
 ```
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -416,10 +395,9 @@ $ cat certs.log | sort -r
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=trngdothuy&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=64ffda&line=00b4d8&point=ffffff" alt="Contribution Graph"/>
 </div>
 
----
+--- -->
 
-## 👾 Pac-Man chomps through my contributions
-
+## 👾 While you're here...
 
  <div align="center">
 <picture>
@@ -427,6 +405,9 @@ $ cat certs.log | sort -r
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trngdothuy/trngdothuy/output/pacman-contribution-graph.svg"/>
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/trngdothuy/trngdothuy/output/pacman-contribution-graph.svg"/>
 </picture>
+
+### 🟦 My GitHub contributions are basically Pac-Man fuel.
+
 </div>
 
 ---
@@ -445,7 +426,7 @@ Catalan     ████░░░░░░░░░░░░░░░░  A1 Cer
 <div align="center">
 
 ```bash
-$ echo "Thanks for visiting — let's build something great 🚀"
+$ echo "Thanks for visiting — let's build something useful 🚀"
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trang-do-thuy-183435141/)
